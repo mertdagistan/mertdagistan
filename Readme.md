@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mert Dağıstan</h1>
 <h3 align="center">Full-Stack developer from Turkey</h3>
 
-- 📫 <a href="mail:contact@mertdagistan.com">**contact@mertdagistan.com**</a>
+📫 <a href="mail:contact@mertdagistan.com">**contact@mertdagistan.com**</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
