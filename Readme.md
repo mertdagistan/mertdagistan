@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm MERT DAĞISTAN</h1>
-<p>As a <strong>frontend</strong> and <strong>mobile developer</strong> who works extensively with React, I believe in the power of React and React Native to provide creative and innovative solutions that meet customer needs.
-
-In mobile app development, React Native`s strong and fast development process has been very helpful in providing solutions tailored to my clients needs. Additionally, I have experience using React and Next.js to create modern, user-friendly, and impressive websites.
-
-As a developer, I can shape both my technical and social skills according to my clients needs. I also focus on continuous learning, keeping up with new technologies, and improving myself.
+<p>Hello, I'm a frontend and mobile developer based in Izmir, Turkey. I'm 26 years old and have more than 5 years of experience in developing web and mobile applications using React technology.
+  
+In addition, I have published an application on the App Store. I continuously research and implement new technologies to improve the performance and user experience of my applications.
+  
+As someone who is open to new ideas and technologies, I'm constantly learning and striving to improve myself. I'm a team player with strong communication skills and experience in understanding customer needs.
 
 If you want to get in touch with me, you can reach me at <a href="mailto:contact@mertdagistan.com">contact@mertdagistan.com</a>. Also, feel free to check out my projects by visiting <a href="mertdagistan.com">mertdagistan.com</a>.
 </p>
